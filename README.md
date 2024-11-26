@@ -1,4 +1,4 @@
-# Credit-Score-Classification-with-Machine-Learning
+# Credit Score Classification with Machine Learning
 
 
 Banks and credit card companies calculate your credit score to determine your creditworthiness. Learn how to use Machine Learning for credit score classification with Python.
