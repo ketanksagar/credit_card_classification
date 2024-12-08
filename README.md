@@ -38,4 +38,4 @@ To view the interactive plots and visualizations in this project, it is recommen
 1. Open the notebook in Google Colab by clicking on the "Open in Colab" badge.
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_notebook_path.ipynb)
 
-2. Run the notebook in Colab.
+2. Run the notebook in Google Colab.
