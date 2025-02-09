@@ -3,6 +3,7 @@
 
 Banks and credit card companies calculate your credit score to determine your creditworthiness. Learn how to use Machine Learning for credit score classification with Python.
 
+
 [![made-with](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) [![made-with](https://img.shields.io/badge/Data%20Science-orange.svg)](https://en.wikipedia.org/wiki/Data_science) [![made-with](https://img.shields.io/badge/Exploratory%20Data%20Analysis-green.svg)](https://en.wikipedia.org/wiki/Exploratory_data_analysis) [![made-with](https://img.shields.io/badge/Machine%20Learning-red.svg)](https://en.wikipedia.org/wiki/Machine_learning) 
 
 
